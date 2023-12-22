@@ -1,2 +1,2 @@
 # tokenmytoken
-playing with design tokens
+playing with the Tokens Studio Figma plugin.
